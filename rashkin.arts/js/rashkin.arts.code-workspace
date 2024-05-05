@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/Отправка_заявки_из_формы_на_почту/Пример формы с отправкой/phpmailer"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rashkin.arts"
+	}
+}
